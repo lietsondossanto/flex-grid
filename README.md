@@ -5,9 +5,8 @@ Exemplo de um web site usando flex-box e grid-layout, tornando o seu site respon
 
 🚀 Tecnologias
 
--  HTML5
--  JavaScript
--  CSS3
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Webt)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web)
 
 Feito com ❤️ por Lietson dos santos 👋🏽 Entre em contato!
 
