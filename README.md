@@ -1,6 +1,6 @@
 # flex-grid
-Exemplo de um web site usando flex-box e grid-layout, tornando o seu site responsivo acessivel a todas as plataformas
-Essa aplicação foi desenvolvida para fins de estudos
+Exemplo de um web site usando flex-box e grid-layout, tornando o seu site responsivo acessivel a todas as plataformas.
+Esta aplicação foi desenvolvida para fins de estudos
 
 ![screen capture](img/img.png)
 
